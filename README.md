@@ -1,11 +1,22 @@
 # CMPE-272-AI-ML-Assignment
 
 
+
 # Assignment 2: Classification - Customer Churn Prediction
+
+
+## Group 5
+
+**Satyajit Aniruddha Khutwad**
+**Mani Mokshith Noonety**
+**√Sakshat Nandkumar Patil**
+**Prathamesh Ravindra Sawant**
 
 ## 🎯 Objective
 In this assignment, you will build a **classification model** to predict **customer churn**.  
 Churn prediction is essential for businesses to identify customers at risk of leaving and take action to retain them.
+
+
 
 ---
 
