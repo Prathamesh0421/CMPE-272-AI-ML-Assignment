@@ -7,10 +7,10 @@
 
 ## Group 5
 
-**Satyajit Aniruddha Khutwad**
-**Mani Mokshith Noonety**
-**√Sakshat Nandkumar Patil**
-**Prathamesh Ravindra Sawant**
+- **Satyajit Aniruddha Khutwad**
+- **Mani Mokshith Noonety**
+- **Sakshat Nandkumar Patil**
+- **Prathamesh Ravindra Sawant**
 
 ## 🎯 Objective
 In this assignment, you will build a **classification model** to predict **customer churn**.  
